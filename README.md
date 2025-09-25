@@ -17,7 +17,11 @@
 <img width="448" height="266" alt="Снимок экрана 2025-09-25 в 14 20 16" src="https://github.com/user-attachments/assets/c2ca82e3-6ad5-4996-a29c-d12324a0ffea" />
 <img width="471" height="65" alt="Снимок экрана 2025-09-25 в 14 21 01" src="https://github.com/user-attachments/assets/07adca96-8cb6-45be-b5c7-744843caf58f" />
 файл about.html
+
 <img width="292" height="75" alt="Снимок экрана 2025-09-25 в 16 56 16" src="https://github.com/user-attachments/assets/2b47a06b-33f5-4cfa-addc-7abef062983d" />
+
+<img width="603" height="148" alt=" " src="https://github.com/user-attachments/assets/1ca55c45-1060-4203-95af-e9667084dbcc" />
+
 
 Порт 3000 не работает(
 
